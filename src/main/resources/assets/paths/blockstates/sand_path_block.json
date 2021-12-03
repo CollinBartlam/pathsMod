@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "paths:block/sand_path_block"
+        }
+    }
+}
